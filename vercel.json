@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "cd qmee-redesign && npm install && npm run build",
+  "outputDirectory": "qmee-redesign/dist",
+  "framework": "vite"
+}
